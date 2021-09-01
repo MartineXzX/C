@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1593127754 source:c:\users\user\desktop\parcial_rec_lab1_soñez\arrayfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayFunctions.h"
+
+1593106233 c:\users\user\desktop\parcial_rec_lab1_soñez\arrayfunctions.h
+
+1593708556 source:c:\users\user\desktop\parcial_rec_lab1_soñez\inputdatafunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputDataFunctions.h"
+
+1593106090 c:\users\user\desktop\parcial_rec_lab1_soñez\inputdatafunctions.h
+
+1593708537 source:c:\users\user\desktop\parcial_rec_lab1_soñez\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593130711 c:\users\user\desktop\parcial_rec_lab1_soñez\linkedlist.h
+
+1593660394 source:c:\users\user\desktop\parcial_rec_lab1_soñez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"inputDataFunctions.h"
+	"LinkedList.h"
+	"eCatering.h"
+	"Menu.h"
+
+1593658382 c:\users\user\desktop\parcial_rec_lab1_soñez\parser.h
+	"LinkedList.h"
+
+1593660150 c:\users\user\desktop\parcial_rec_lab1_soñez\ecatering.h
+	"LinkedList.h"
+
+1593130665 c:\users\user\desktop\parcial_rec_lab1_soñez\menu.h
+
+1593658960 source:c:\users\user\desktop\parcial_rec_lab1_soñez\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1593660192 source:c:\users\user\desktop\parcial_rec_lab1_soñez\ecatering.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eCatering.h"
+	"inputDataFunctions.h"
+
+1593722316 source:c:\users\user\desktop\parcial_rec_lab1_soñez\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"parser.h"
+	"eCatering.h"
+
+1593660192 source:c:\users\user\desktop\github\parcial_rec_lab1_soñez\ecatering.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eCatering.h"
+	"inputDataFunctions.h"
+
+1593660150 c:\users\user\desktop\github\parcial_rec_lab1_soñez\ecatering.h
+	"LinkedList.h"
+
+1593130711 c:\users\user\desktop\github\parcial_rec_lab1_soñez\linkedlist.h
+
+1593106090 c:\users\user\desktop\github\parcial_rec_lab1_soñez\inputdatafunctions.h
+
+1593708556 source:c:\users\user\desktop\github\parcial_rec_lab1_soñez\inputdatafunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputDataFunctions.h"
+
+1593727164 source:c:\users\user\desktop\github\parcial_rec_lab1_soñez\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593660394 source:c:\users\user\desktop\github\parcial_rec_lab1_soñez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"inputDataFunctions.h"
+	"LinkedList.h"
+	"eCatering.h"
+	"Menu.h"
+
+1593658382 c:\users\user\desktop\github\parcial_rec_lab1_soñez\parser.h
+	"LinkedList.h"
+
+1593130665 c:\users\user\desktop\github\parcial_rec_lab1_soñez\menu.h
+
+1593658960 source:c:\users\user\desktop\github\parcial_rec_lab1_soñez\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1593722316 source:c:\users\user\desktop\github\parcial_rec_lab1_soñez\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"parser.h"
+	"eCatering.h"
+

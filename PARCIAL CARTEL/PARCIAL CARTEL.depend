@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1596129083 source:c:\users\user\desktop\great parcial\ecartel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eCartel.h"
+	"inputDataFunctions.h"
+
+1596147510 c:\users\user\desktop\great parcial\ecartel.h
+	"LinkedList.h"
+
+1596101587 c:\users\user\desktop\great parcial\linkedlist.h
+
+1596104873 c:\users\user\desktop\great parcial\inputdatafunctions.h
+
+1596104873 source:c:\users\user\desktop\great parcial\inputdatafunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputDataFunctions.h"
+
+1596135717 source:c:\users\user\desktop\great parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1596135769 source:c:\users\user\desktop\great parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"inputDataFunctions.h"
+	"LinkedList.h"
+	"eCartel.h"
+	"Menu.h"
+
+1596104873 c:\users\user\desktop\great parcial\parser.h
+	"LinkedList.h"
+
+1596101587 c:\users\user\desktop\great parcial\menu.h
+
+1596102282 source:c:\users\user\desktop\great parcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1596104678 source:c:\users\user\desktop\great parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"parser.h"
+	"eCartel.h"
+
+1596147510 source:c:\users\user\desktop\github\parcial cartel\ecartel.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eCartel.h"
+	"inputDataFunctions.h"
+
+1596147510 c:\users\user\desktop\github\parcial cartel\ecartel.h
+	"LinkedList.h"
+
+1596101587 c:\users\user\desktop\github\parcial cartel\linkedlist.h
+
+1596104873 c:\users\user\desktop\github\parcial cartel\inputdatafunctions.h
+
+1596104873 source:c:\users\user\desktop\github\parcial cartel\inputdatafunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputDataFunctions.h"
+
+1596135717 source:c:\users\user\desktop\github\parcial cartel\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1596147511 source:c:\users\user\desktop\github\parcial cartel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"inputDataFunctions.h"
+	"LinkedList.h"
+	"eCartel.h"
+	"Menu.h"
+
+1596104873 c:\users\user\desktop\github\parcial cartel\parser.h
+	"LinkedList.h"
+
+1596101587 c:\users\user\desktop\github\parcial cartel\menu.h
+
+1596102282 source:c:\users\user\desktop\github\parcial cartel\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1596104678 source:c:\users\user\desktop\github\parcial cartel\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"parser.h"
+	"eCartel.h"
+

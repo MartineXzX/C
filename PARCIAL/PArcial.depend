@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1593127754 source:c:\users\user\desktop\parcial\arrayfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayFunctions.h"
+
+1593106233 c:\users\user\desktop\parcial\arrayfunctions.h
+
+1593130687 source:c:\users\user\desktop\parcial\inputdatafunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"arrayFunctions.h"
+	"inputDataFunctions.h"
+
+1593106090 c:\users\user\desktop\parcial\inputdatafunctions.h
+
+1593130697 source:c:\users\user\desktop\parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593130711 c:\users\user\desktop\parcial\linkedlist.h
+
+1593130679 source:c:\users\user\desktop\parcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1593130665 c:\users\user\desktop\parcial\menu.h
+
+1593130702 source:c:\users\user\desktop\parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"parser.h"
+	"eArticulo.h"
+
+1593106090 c:\users\user\desktop\parcial\parser.h
+	"LinkedList.h"
+
+1593130862 c:\users\user\desktop\parcial\earticulo.h
+	"LinkedList.h"
+
+1593124931 source:c:\users\user\desktop\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"inputDataFunctions.h"
+	"LinkedList.h"
+	"eArticulo.h"
+	"Menu.h"
+
+1593130920 source:c:\users\user\desktop\parcial\earticulo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eArticulo.h"
+	"inputDataFunctions.h"
+
+1593127754 source:c:\users\user\desktop\github\parcial\arrayfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayFunctions.h"
+
+1593106233 c:\users\user\desktop\github\parcial\arrayfunctions.h
+
+1593130920 source:c:\users\user\desktop\github\parcial\earticulo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"eArticulo.h"
+	"inputDataFunctions.h"
+
+1593130862 c:\users\user\desktop\github\parcial\earticulo.h
+	"LinkedList.h"
+
+1593130711 c:\users\user\desktop\github\parcial\linkedlist.h
+
+1593106090 c:\users\user\desktop\github\parcial\inputdatafunctions.h
+
+1593130687 source:c:\users\user\desktop\github\parcial\inputdatafunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"arrayFunctions.h"
+	"inputDataFunctions.h"
+
+1593130697 source:c:\users\user\desktop\github\parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593124931 source:c:\users\user\desktop\github\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"inputDataFunctions.h"
+	"LinkedList.h"
+	"eArticulo.h"
+	"Menu.h"
+
+1593106090 c:\users\user\desktop\github\parcial\parser.h
+	"LinkedList.h"
+
+1593130665 c:\users\user\desktop\github\parcial\menu.h
+
+1593130702 source:c:\users\user\desktop\github\parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"parser.h"
+	"eArticulo.h"
+
